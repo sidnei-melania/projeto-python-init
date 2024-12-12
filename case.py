@@ -7,4 +7,5 @@ class AlgumaCoisa:
 
 
 with AlgumaCoisa() as ola:
+    
     print("Estou no meio")
