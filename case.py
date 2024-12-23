@@ -8,4 +8,4 @@ class AlgumaCoisa:
 
 with AlgumaCoisa() as ola:
     
-    print("Estou no meio")
+    print(" Estou no meio ")
